@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sohGIdZ4hjckR9kPVyoXrcxGyFU4XhYRzBZkPtbkzp7AV0aNW1YIhKPE+VVXLCaBWkSGlU8/9dZvU6uggOERmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive - University of Lagos\\Documents\\WEMA CSHARP CLASS\\NewApps\\Alat\\Alat\\Alat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

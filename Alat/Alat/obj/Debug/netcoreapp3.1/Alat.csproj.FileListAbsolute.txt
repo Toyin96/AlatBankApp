@@ -1,0 +1,13 @@
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\bin\Debug\netcoreapp3.1\Alat.exe
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\bin\Debug\netcoreapp3.1\Alat.deps.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\bin\Debug\netcoreapp3.1\Alat.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\bin\Debug\netcoreapp3.1\Alat.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\bin\Debug\netcoreapp3.1\Alat.dll
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\bin\Debug\netcoreapp3.1\Alat.pdb
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\obj\Debug\netcoreapp3.1\Alat.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\obj\Debug\netcoreapp3.1\Alat.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\obj\Debug\netcoreapp3.1\Alat.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\obj\Debug\netcoreapp3.1\Alat.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\obj\Debug\netcoreapp3.1\Alat.dll
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\obj\Debug\netcoreapp3.1\Alat.pdb
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\NewApps\Alat\Alat\obj\Debug\netcoreapp3.1\Alat.genruntimeconfig.cache
